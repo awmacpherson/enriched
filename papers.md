@@ -3,7 +3,7 @@ title: papers on enriched higher category theory
 date: 2021-12-09
 ---
 
-# Papers on enriched $\infty$-category theory
+# Papers on enriched <img src="https://render.githubusercontent.com/render/math?math=\infty">-category theory
 
 I created this repo so that I have somewhere to point people when they ask "what's up with enriched higher category theory? I mean what's up with it?" I make no claim to be authoritative: this is just one person's perspective (until someone else contributes).
 
