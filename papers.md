@@ -19,7 +19,7 @@ Five hand-picked papers that represent what I know about the subject right now. 
 
   Another attack on enriched $\mathcal{V}$-categories that focuses on the corepresenting planar operad (as opposed to the *generalised* planar operad prioritised by Gepner-Haugseng). Makes the adjoint enrichment a central theme and uses it to define enriched presheaves as a left $\mathcal{V}$-module and prove a Yoneda lemma.
 
-- [2009.02428](https://arxiv.org/abs/2009.02428) &mdash; *An equivalence between enriched $\infty$-categories and ∞-categories with weak action*, Hadrian Heine, 2020.
+- [2009.02428](https://arxiv.org/abs/2009.02428) &mdash; *An equivalence between enriched $\infty$-categories and $\infty$-categories with weak action*, Hadrian Heine, 2020.
 
   Upgrades either Hinich's or Gepner-Haugseng's construction of adjoint enrichments to an equivalence between the categories of enriched $\mathcal{V}$-categories and left $\mathcal{V}$-modules (I haven't checked which). This should make the theory of adjoint enrichments really usable, since in practice this seems to be the main way of defining $\mathcal{V}$-enrichments.
 
