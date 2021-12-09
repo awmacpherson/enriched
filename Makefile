@@ -1,7 +1,7 @@
-all: open-problems papers
+pdf: open-problems.pdf papers.pdf
 
-open-problems: open-problems.md
+open-problems.pdf: open-problems.md
 	pandoc -i open-problems.md -o open-problems.pdf
 
-papers: papers.md
+papers.pdf: papers.md
 	pandoc -i papers.md -o papers.pdf
